@@ -1,0 +1,12 @@
+C:\Users\82105\source\repos\MenuOrder\MenuOrder\bin\Debug\MenuOrder.exe.config
+C:\Users\82105\source\repos\MenuOrder\MenuOrder\bin\Debug\MenuOrder.exe
+C:\Users\82105\source\repos\MenuOrder\MenuOrder\bin\Debug\MenuOrder.pdb
+C:\Users\82105\source\repos\MenuOrder\MenuOrder\bin\Debug\Oracle.DataAccess.dll
+C:\Users\82105\source\repos\MenuOrder\MenuOrder\obj\Debug\MenuOrder.csproj.AssemblyReference.cache
+C:\Users\82105\source\repos\MenuOrder\MenuOrder\obj\Debug\MenuOrder.Form1.resources
+C:\Users\82105\source\repos\MenuOrder\MenuOrder\obj\Debug\MenuOrder.Properties.Resources.resources
+C:\Users\82105\source\repos\MenuOrder\MenuOrder\obj\Debug\MenuOrder.csproj.GenerateResource.cache
+C:\Users\82105\source\repos\MenuOrder\MenuOrder\obj\Debug\MenuOrder.csproj.CoreCompileInputs.cache
+C:\Users\82105\source\repos\MenuOrder\MenuOrder\obj\Debug\MenuOrder.csproj.CopyComplete
+C:\Users\82105\source\repos\MenuOrder\MenuOrder\obj\Debug\MenuOrder.exe
+C:\Users\82105\source\repos\MenuOrder\MenuOrder\obj\Debug\MenuOrder.pdb

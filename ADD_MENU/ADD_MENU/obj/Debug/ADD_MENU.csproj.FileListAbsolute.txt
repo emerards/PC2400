@@ -1,0 +1,12 @@
+C:\Users\82105\source\repos\ADD_MENU\ADD_MENU\bin\Debug\ADD_MENU.exe.config
+C:\Users\82105\source\repos\ADD_MENU\ADD_MENU\bin\Debug\ADD_MENU.exe
+C:\Users\82105\source\repos\ADD_MENU\ADD_MENU\bin\Debug\ADD_MENU.pdb
+C:\Users\82105\source\repos\ADD_MENU\ADD_MENU\bin\Debug\Oracle.DataAccess.dll
+C:\Users\82105\source\repos\ADD_MENU\ADD_MENU\obj\Debug\ADD_MENU.csproj.AssemblyReference.cache
+C:\Users\82105\source\repos\ADD_MENU\ADD_MENU\obj\Debug\ADD_MENU.Form1.resources
+C:\Users\82105\source\repos\ADD_MENU\ADD_MENU\obj\Debug\ADD_MENU.Properties.Resources.resources
+C:\Users\82105\source\repos\ADD_MENU\ADD_MENU\obj\Debug\ADD_MENU.csproj.GenerateResource.cache
+C:\Users\82105\source\repos\ADD_MENU\ADD_MENU\obj\Debug\ADD_MENU.csproj.CoreCompileInputs.cache
+C:\Users\82105\source\repos\ADD_MENU\ADD_MENU\obj\Debug\ADD_MENU.csproj.CopyComplete
+C:\Users\82105\source\repos\ADD_MENU\ADD_MENU\obj\Debug\ADD_MENU.exe
+C:\Users\82105\source\repos\ADD_MENU\ADD_MENU\obj\Debug\ADD_MENU.pdb
